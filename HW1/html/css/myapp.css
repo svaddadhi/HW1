@@ -1,0 +1,31 @@
+body {
+	margin: 0;
+	padding: 0;
+}
+
+
+div.container {
+	margin: auto;
+}
+
+.column-one {
+	padding-right: 100px;
+}
+
+
+.my-row {
+	display: flex;
+	align-items: center;
+}
+
+.upper-col {
+	padding-right: 30px;
+}
+
+
+/*.column-two {
+	display: flex;
+	align-items: flex-start;
+	padding-right: 250px;
+	padding-left: 100px;
+}*/
