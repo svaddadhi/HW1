@@ -8,9 +8,57 @@ div.container {
 	margin: auto;
 }
 
-.column-one {
-	padding-right: 100px;
+.description {
+	font-style: italic;
+	margin-bottom: auto;
+
 }
+
+.col-5 {
+	padding-left: 90px;
+}
+
+.sidecar {
+	border: solid;
+	background-color: #a6a7a8;
+}
+
+.text-center {
+	padding-top: 20px;
+}
+
+.set-up {
+	padding-bottom: 30px;
+}
+
+.fix-up {
+	padding-bottom: 20px;
+}
+
+.card-top {
+	padding-bottom: 20px;
+}
+
+.personal-body {
+	border: solid;
+	background-color: #a6a7a8;
+}
+
+.change-body {
+	padding: 0px;
+	padding-bottom: 20px;
+}
+
+.description-one {
+	font-style: italic;
+	padding-top: 0px;
+	
+}
+
+.cd {
+	padding: none;
+}
+
 
 
 .my-row {
@@ -29,3 +77,26 @@ div.container {
 	padding-right: 250px;
 	padding-left: 100px;
 }*/
+
+.top-container {
+	background-color: #285991;
+	padding-bottom: 0px;
+	padding-top: 30px;
+}
+
+.logo-image {
+	height: 50px;
+}
+
+.news-column {
+	color: white;
+}
+
+.card {
+	border: none;
+}
+
+.a-title {
+	font-style: italic;
+	font-weight: bold;
+}
