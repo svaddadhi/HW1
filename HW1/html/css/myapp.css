@@ -3,7 +3,9 @@ body {
 	padding: 0;
 }
 
-
+.card-title {
+	font-weight: bold;
+}
 div.container {
 	margin: auto;
 }
@@ -14,13 +16,21 @@ div.container {
 
 }
 
+.ticket-fix {
+	font-style: italic;
+}
+
+.correct-style {
+	font-weight: bold;
+}
+
 .col-5 {
 	padding-left: 90px;
 }
 
 .sidecar {
 	border: solid;
-	background-color: #a6a7a8;
+	background-color: #d1d1d1;
 }
 
 .text-center {
@@ -41,7 +51,7 @@ div.container {
 
 .personal-body {
 	border: solid;
-	background-color: #a6a7a8;
+	background-color: #d1d1d1;
 }
 
 .change-body {
@@ -59,8 +69,6 @@ div.container {
 	padding: none;
 }
 
-
-
 .my-row {
 	display: flex;
 	align-items: center;
@@ -69,14 +77,6 @@ div.container {
 .upper-col {
 	padding-right: 30px;
 }
-
-
-/*.column-two {
-	display: flex;
-	align-items: flex-start;
-	padding-right: 250px;
-	padding-left: 100px;
-}*/
 
 .top-container {
 	background-color: #285991;
